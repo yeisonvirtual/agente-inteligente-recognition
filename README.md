@@ -12,5 +12,4 @@ Archivo de entrada:
 
 
 Grafica resultante:
-
 ![grafica](https://github.com/yeisonvirtual/agente-inteligente-recognition/blob/main/grafica.png)
